@@ -1,0 +1,33 @@
+name | alternate name | myth | type | characters
+
+
+Arcadia|Arcadia|None|Wilderness|Atlanta, Callisto, Pan, Hermes
+Lycia|Lycia|Coastal|Bellerophon|Leto, Apollo, Artemis
+Island of Seriphus|Seriphos|Perseus|Island|Perseus
+Thebes|Thebes|The story of Laius|City|Heracles
+Caria|Mount Latmus|None|Mountain|Endymion
+Laconia|Lacedaemonia|None|Island|Hyacinthus
+Argolis|Argolid|None|Peninsula|Io, Perseus
+Thessaly|Aeolia|Golden Fleece|Plain|Pandora, Odysseus, Pyrrha, Achilles
+Pisa in Elis|Eleia|Trojan War|Valley|Pelops
+Thermodon|River Thermodon|Trojan War|River|Penthesilea
+Cyprus|Cytherea, Cypris, Cypria|Aphrodite|Island|Pygmalion, Aphrodite
+Troad|Troas|None|Peninsula|Cycnus
+Argolis|Argolid|Myth of Io|Regional State in Greece|Io, Zeus, Hera
+Aeaea|Eëa|The Odyssey|Island|Circe, Odysseus
+Athens|Athina|The Myth of Theseus and the Minotaur|Theseus,Aegeus
+Aulis|Avlida|Trojan War|City, Port|Artemis, Agamemnon
+Calydon|N/A|Calydonian Boar|City|Apollo, Artemis
+Colchis|Colchis, Kolkhis, Qulha|Jason and the Argonauts|Costal Region|Jason, Athena, Hera, Argonauts
+Corinth|Korinthos|The Myth of Sisyphus, The Myth of Pegasus and Bellerophontes|City|Sisyphus,Bellerophontes
+Crete|Kaptara, Girit, Creta|The Myth of Europe, The Myth of Theseus and the Minotaur|Island|Zeus,Europe,Minos,Pasiphae,Minotaur,Aegeus,Adriadne,Theseus,Androgeus
+Delphi|Mount Parnassus|The Myth of Halcyon|Mountain|Halcyon,Ceyx,Apollo
+Iolcus|Iolkos,Iolcus|Jason and the Argonauts|City|Jason,Pelias,Athena,Hera,Argonauts
+Ithaca|Ithaka|The Odyssey|Island|Odysseus, Poseidon
+Lerna|Myloi|12 Labors of Hercules: Lernaean Hydra|Lake|Heracles, Hera
+Mount Olympus|Olympus|The Myth of Tantalus, The Titans and Titanomachy|Mountain|Tantalus,Pelops,Zeus,Demeter, All the Gods
+Nemea|Koutsoumadi|12 Labors of Hercules: Nemean Lion|Heracles, Athena
+Sparta|Lacedaemon|N/A|City|Leda, Ares, Castor, Pollux
+Tauris|Crimea|Myth of Iphigenia|Peninsula|Artemis, Iphigenia
+The Underworld|The Kingdom of the Dead|The Myth of Hades and Persephone|Afterlife|Hades, Persephone
+Troy|Ilion, Troia, Ilium|Trojan War|City|Achilles, Odysseus

@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<!-- Latest compiled and minified CSS -->
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+		<!-- Optional theme -->
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+			<link rel="stylesheet" href="/static/css/react-bootstrap-table.css">
+			<link rel="stylesheet" href="/static/css/greekpattern.css">
+			<meta id="godand" data-name="{{ godand }}">
+			<meta id="heroand" data-name="{{ heroand }}">
+			<meta id="locationand" data-name="{{ locationand }}">
+			<meta id="mythand" data-name="{{ mythand }}">
+			<meta id="godor" data-name="{{ godor }}">
+			<meta id="heroor" data-name="{{ heroor }}">
+			<meta id="locationor" data-name="{{ locationor }}">
+			<meta id="mythor" data-name="{{ mythor }}">
+		<Title>Search Page</Title>
+	</head>
+	<body style="background-color: #F6BB42;">
+
+
+		<div id="nav">Loading...</div>
+		<div class="greektop"></div>
+		<div id="search">Loading Gods...</div>
+		<div class="greekbottom"></div>
+		<script src="https://unpkg.com/react@15/dist/react.min.js"></script>
+		<script src="https://unpkg.com/react-dom@15/dist/react-dom.min.js"></script>
+		<script src="/static/js/babel-browser.min.js"></script>
+		<script type="text/babel" src="/static/js/search.js"></script>
+		<script type="text/babel" src="/static/js/nav.js"></script>
+		<script src="/static/js/jquery.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<script src="https://npmcdn.com/react-bootstrap-table/dist/react-bootstrap-table.min.js"></script>
+		<script src="/static/js/reactable.js"></script>
+		<script src="/static/js/godsdata.js"></script>
+		<script src="/static/js/heroesdata.js"></script>
+		<script src="/static/js/locationsdata.js"></script>
+		<script src="/static/js/mythsdata.js"></script>
+		<script>
+      var godand = $('#godand').data();
+			var heroand = $('#heroand').data();
+			var locationand = $('#locationand').data();
+			var mythand = $('#mythand').data();
+			var godor = $('#godor').data();
+			var heroor = $('#heroor').data();
+			var locationor = $('#locationor').data();
+			var mythor = $('#mythor').data();
+    </script>
+	</body>
+</html>

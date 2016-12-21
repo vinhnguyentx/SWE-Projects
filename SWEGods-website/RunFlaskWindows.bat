@@ -1,0 +1,1 @@
+cmd /k "python IDB3.py & set FLASK_APP=IDB3.py & flask run"

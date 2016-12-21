@@ -1,0 +1,342 @@
+commit 45b70f2cebf2a9fce30a1f921f757c7d6a80253a
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 21:23:19 2016 -0500
+
+    remove tests
+
+commit 8e584088a445317677bec76fb5d7c59a716db0c3
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 21:20:19 2016 -0500
+
+    update
+
+commit dad9a4c97870f82fc1f09b00cc42a9660feb605b
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 21:16:45 2016 -0500
+
+    update
+
+commit eda26134d042b474ffa51c6185975136951814d2
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 21:15:14 2016 -0500
+
+    update
+
+commit 5dcc3ee670e4c22e9abf6ec7157b53252ab2c418
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 20:16:03 2016 -0500
+
+    update
+
+commit 4aaec4722229a266f96b34a91bf99c950e3bf4e4
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 20:13:51 2016 -0500
+
+    update
+
+commit e6b3efce732b1326fadc009d17ad12cd69f50be5
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 19:56:02 2016 -0500
+
+    update
+
+commit 7505959fb71f5706bf37002272e7472bb1b4c230
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 19:35:11 2016 -0500
+
+    update
+
+commit 3e44bb18baced3094004f87457d69c5c35329988
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 19:32:13 2016 -0500
+
+    add log
+
+commit 894bf36bebfc332c030f31ae560347395581a40a
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 19:23:44 2016 -0500
+
+    update
+
+commit aafceab907f9d5249781fad2320316593b0d706a
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 19:15:24 2016 -0500
+
+    update tests
+
+commit b057e374cf4377e50b24174ab7e6dad97e0534e8
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 19:09:21 2016 -0500
+
+    update gitignore
+
+commit 6704ade03f5b44c7cfe11687d95ad8a21855c2e5
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 19:06:16 2016 -0500
+
+    update gitignore
+
+commit f5844059b29af27c1366cbc0f7f64e6981e003ef
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 19:02:12 2016 -0500
+
+    update gitignore
+
+commit 4fd1750f6c27e112cf950581691a593cd4eb863c
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 18:57:36 2016 -0500
+
+    finalize makefile
+
+commit 659b92c0a45abae7fca8002c5b4be5e8e2862d35
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 18:44:59 2016 -0500
+
+    finalize makefile
+
+commit 679c5600d55d4f02f91a5f572d32a47474943ca5
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 18:39:51 2016 -0500
+
+    finalize makefile
+
+commit 041cf238c11fd857a37f082fa69e2d2a6e5e4fda
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 18:37:36 2016 -0500
+
+    finalize makefile
+
+commit 70e1e8aff705d832e2c236c4ee0560f224c743bd
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 18:35:08 2016 -0500
+
+    finalize makefile
+
+commit 4951fc8883d0ac24003cd1521cdc389074a1d82b
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 18:33:07 2016 -0500
+
+    finalize makefile
+
+commit 9e5f09073bc142f620ee70dac51d46f963b2c9b8
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 18:31:07 2016 -0500
+
+    finalize makefile
+
+commit e7492d5fa048d6bbb2929cd224c80b40b36571f2
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 18:29:25 2016 -0500
+
+    finalize makefile
+
+commit 71cfab29b04ba7d8706b66a7c4c09c9168f0527a
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 18:26:48 2016 -0500
+
+    finalize makefile
+
+commit 5e88edcbc35f065568e9bd88f5fa0bae8f566917
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 18:20:33 2016 -0500
+
+    finalize makefile
+
+commit 975ce2a2a0c6a9113c5f628f5a93f3fb9384c424
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 18:07:00 2016 -0500
+
+    update tests
+
+commit 242321ed4a0a4ab1274ab0e656aa6d2f63327c86
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 15:48:57 2016 -0500
+
+    closes #12
+
+commit 37efea9ce8c47f48b0e411f19025c47084d1a574
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 14:50:07 2016 -0500
+
+    closes #5 closes #9 closes #10
+
+commit 6d54aa62ec7c4e0cdcddeca191b53fba0345a14b
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 14:48:04 2016 -0500
+
+    closes #8
+
+commit c00f3bffbe49f5440875d1b68013d3f964bb9569
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 14:45:13 2016 -0500
+
+    closes #4 closes #11 closes #13
+
+commit 670307eb65b628cfeeb4a67a892ebb126dc0359a
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 14:43:31 2016 -0500
+
+    closes #$ closes #6 closes #7
+
+commit 054019a4131b6729bf3a41f91456e3ed64c0fb65
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 14:36:40 2016 -0500
+
+    closes #15 closes #14
+
+commit 246a01da88b27e57e7a7313896479ab4d2ae605c
+Merge: 8a1c3e4 0c3fb7e
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 14:31:21 2016 -0500
+
+    Merge branch 'dev'
+
+commit 0c3fb7e330a1e8dfeacec2591a0bd78706d81aa0
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 14:28:23 2016 -0500
+
+    closes #1
+
+commit 2e4c44ef8c37ad4126e61b5ce763e2c0e042db4c
+Author: vinhnguyen82 <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 14:06:47 2016 -0500
+
+    Delete README.md
+
+commit 23a9f88b64ffd988fbbe8f759a1b39d8e44a6e81
+Author: vinhnguyen82 <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 14:06:38 2016 -0500
+
+    Delete README
+
+commit 34d38c87134e25688245dcde799f1b9d18e59627
+Author: vinhnguyen82 <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 14:02:43 2016 -0500
+
+    Delete Dockerfile
+
+commit b0603ad95bb88806678130f050d7bbae9f30a8c3
+Author: vinhnguyen82 <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 14:02:30 2016 -0500
+
+    Delete vtn288_RunCollatz.out
+
+commit e0fd0c1584f65e312c16e72ba264da617e29dbed
+Author: vinhnguyen82 <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 14:02:22 2016 -0500
+
+    Delete vtn288-TestCollatz.py
+
+commit 417d3c0cb77f26dc379cd5e16e45fb0544bad590
+Author: vinhnguyen82 <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 14:02:15 2016 -0500
+
+    Delete vtn288-TestCollatz.out
+
+commit fdc0e6ab351b21e30d9463a21e26ffeb73ec2ca8
+Author: vinhnguyen82 <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 14:02:07 2016 -0500
+
+    Delete vtn288-RunCollatz.in
+
+commit 1d3c5a7b05ead7093b44ec893503faf735404b09
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 13:34:14 2016 -0500
+
+    closes #1 closes #2 closes #3
+
+commit 4b6bc9deda7316a25733ddcab95e4f4d1effbd28
+Author: Vinh Nguyen <vinhnguyentx@utexas.edu>
+Date:   Thu Sep 8 13:29:06 2016 -0500
+
+    close [issue 1]
+
+commit 7176eae110295443d0ff7d71581955fe7932e039
+Author: Vinh Nguyen <vinhnguyen@vinhs-air.attlocal.net>
+Date:   Thu Sep 8 13:10:22 2016 -0500
+
+    close #1
+
+commit d62ea946da74c1483fa7dbe1a33e344ab6fc97c1
+Author: Vinh Nguyen <vinhnguyen@vinhs-air.attlocal.net>
+Date:   Tue Sep 6 23:21:33 2016 -0500
+
+    update makefile
+
+commit 8f7e563f0bf67d6ac867d6a86300a33df31b36cd
+Author: Vinh Nguyen <vinhnguyen@vinhs-air.attlocal.net>
+Date:   Tue Sep 6 23:18:45 2016 -0500
+
+    update makefile
+
+commit 6b5d1ec1fafbd5463b05382c6e5a24d956dfecde
+Author: Vinh Nguyen <vinhnguyen@vinhs-air.attlocal.net>
+Date:   Tue Sep 6 23:16:15 2016 -0500
+
+    update makefile
+
+commit aa5beaf4c87cc9e578428b80ec6ae750e397677c
+Author: Vinh Nguyen <vinhnguyen@vinhs-air.attlocal.net>
+Date:   Tue Sep 6 23:12:22 2016 -0500
+
+    update makefile
+
+commit 8b76b4b0731f8ff9bf81642ccb04feed0119e867
+Author: Vinh Nguyen <vinhnguyen@vinhs-air.attlocal.net>
+Date:   Tue Sep 6 23:10:12 2016 -0500
+
+    update makefile
+
+commit 8e6f72e97d0bfb68d5811211d4e62380acd2dc07
+Author: Vinh Nguyen <vinhnguyen@vinhs-air.attlocal.net>
+Date:   Tue Sep 6 23:07:58 2016 -0500
+
+    update makefile
+
+commit ed11969b9669593d2cb735ea3daa26145aeeed16
+Author: Vinh Nguyen <vinhnguyen@vinhs-air.attlocal.net>
+Date:   Tue Sep 6 23:04:03 2016 -0500
+
+    update makefile
+
+commit 242b18cd0c2a13850ac98f06901d422f0e57cda2
+Author: Vinh Nguyen <vinhnguyen@vinhs-air.attlocal.net>
+Date:   Tue Sep 6 22:24:35 2016 -0500
+
+    update makefile
+
+commit 8a1c3e4d74eb281825ab9e5980fe043f1a796b0c
+Author: Vinh Nguyen <vinhnguyen@vinhs-air.attlocal.net>
+Date:   Tue Sep 6 20:45:58 2016 -0500
+
+    update makefile
+
+commit 387d8f5dbb1088347129b12d3fd7005138354a27
+Author: vinhnguyen82 <vinhnguyentx@utexas.edu>
+Date:   Tue Sep 6 20:32:17 2016 -0500
+
+    Update makefile
+
+commit ffd3a5a9bbf822af4105da0c3f917802a84bfa5d
+Author: vinhnguyen82 <vinhnguyentx@utexas.edu>
+Date:   Tue Sep 6 19:59:42 2016 -0500
+
+    Create .travis.yml
+
+commit 66dbbe7bd55191a99ef8011bb28e4490333fc877
+Author: Vinh Nguyen <vinhnguyen@vinhs-air.attlocal.net>
+Date:   Tue Sep 6 19:49:16 2016 -0500
+
+    add all files close #1
+
+commit 8bd96f5111999587b91f18de39cf782d611d3780
+Author: Vinh Nguyen <vinhnguyen@wireless-10-147-99-145.public.utexas.edu>
+Date:   Fri Sep 2 15:44:05 2016 -0500
+
+    initialize
+
+commit 42bf76878729a25adf54d93eca8ecfdd50ebbd7b
+Author: vinhnguyen82 <vinhnguyentx@utexas.edu>
+Date:   Mon Aug 22 16:14:23 2016 -0500
+
+    Initial commit

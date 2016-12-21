@@ -1,0 +1,101 @@
+Name|Roman name|Power|Symbol|Parents
+
+Aphrodite|Venus|Love, beauty, procreation|Eros (winged godling), conch-shell|Zeus and Dione
+Apollo|Apollo|Music, prophecy, healing, archery|Lyre, bow|Zeus and Leto
+Ares|Mars|War, courage, battlelust|Helm|Zeus and Hera
+Artemis|Diana|Hunting, wild animals, children|Bow and arrows|Zeus and Leto
+Athena|Minerva|Wisdom, war, weaving, crafts|Aegis, gorgoneion|Zeus and Metis
+Demeter|Ceres|Grain, bread, agriculture|Sheaf of grain, cornucopia|Cronus and Rhea
+Dionysus|Liber|Wine, festivity, madness|Thyrsus (pine-cone staff)|Zeus and Semele
+Hephaestus|Vulcan|Smiths, fire, metalworking|Hammer & tongs|Hera (no father)
+Hera|Juno|Marriage, sky, queen of the gods|Royal sceptre|Cronus and Rhea
+Hermes|Mercurius, Mercury|Herds, trade, thievery, athletics, messengers|Caduceus (herald's wand)|Zeus and Maia
+Poseidon|Neptune, |King of the Sea, earthquakes, floods, horses| Trident, Bull, horse, dolphin|Cronus and Rhea
+Zeus|Jupiter|Sky, weather, kings, fate|Lightning bolt, eagle, bull|Cronus and Rhea
+Asclepius|Aesculapius|Medicine, doctors|Serpent-entwined staff|Apollo and Coronis
+Charites|Gratiae|Grace, joy, mirth, beauty, glory, dance|None|Zeus and Eurynome
+Eileithyia|Lucina|Childbirth|Torch|Zeus and Hera
+Eros|Cupid, Amor|Love, sexual desire|Bow and arrow|Aphrodite
+Hebe|Juventas|Youth, brides|Cup, pitcher|Zeus and Hera
+Hestia|Vesta|Hearth, home|Kettle|Cronus and Rhea
+Horae|Dike, Eunomia, Irene|The seasons, natural order|Fruit|Zeus and Themis
+Hygeia|Salus|Good health|Snake|Asclepius and Epione
+Iris|Iris, Arcus|The rainbow, messenger of the gods|Herald's wand|Thaumas and Electra
+Leto|Latona|Motherhood, demureness|Veil|Coeus and Phoebe
+Moirae|Parcae, Fatae|Fate, destiny|Spindle and thread, shears|Zeus and Themis
+Muses|Musae|Music, poetry, the arts|Lyre, cithara, flute|Zeus and Mnemosyne
+Nike|Victoria|Victory|Palm branch, wings|Pallas and Styx
+Themis|Themis|Divine law, custom, assemblies, oracles|Tripod|Uranus and Gaea
+Tyche|Fortuna|Fortune, luck|Cornucopia, rudder|Oceanus and Tethys
+Atlas|Atlas|Bearer of the heavens, astronomy|Celestial sphere|Iapetus and Clymene
+Cronus|Saturnus, Saturn|Time, king of the Titans|Sickle|Uranus and Gaea
+Mnemosyne|Moneta|Memory|Mount Pieria|Uranus and Gaea
+Oceanus|Oceanus|River Oceanus, fresh water|Serpent, fish|Uranus and Gaea
+Prometheus|Prometheus|Forethought, crafty counsel|None|Iapetus and Clymene
+Rhea|Ops, Opis|Mother of the gods, mountains|Turret crown, cymbal|Uranus and Gaea
+Tethys|Tethys|Fresh water, nursing|Winged brow|Uranus and Gaea
+Asteria|Asteria|Shooting stars, nighttime divination|None|Coeus and Phoebe
+Eos|Aurora|The dawn|None|Hyperion and Thea
+Hecate|Trivia|Witchcraft, magic, ghosts|Two torches|Perses and Asteria
+Helius|Sol|The sun, sight|Aureole|Hyperion and Thea
+Selene|Luna|The moon|Lunar disc or crescent, bull's horns|Hyperion and Thea
+Ananke|Necessitas|Necessity, compulsion|Torch|Hydros and Gaea
+Chronos Aeon|Chronos Aeon|Time, eternity|Zodiac-wheel|Hydros and Gaea
+Gaea|Terra, Tellus|The earth|Fruit and grain|None (emerged at creation)
+Hemera|Dies|The day|None|Erebus and Nyx
+Nyx|Nox|The night|None|Chaos (no father)
+Ourea|Montes|The mountains|None|Gaea (no father)
+Pontus|Pontus|The sea|None|Gaea (no father)
+Thalassa|Mare|The sea|None|Aether and Hemera
+Uranus|Caelum|The sky, the starry heavens|Zodiac wheel|Gaea (no father)
+Cerberus|Cerberus|Death, darkness|Three-headed dog, mane of serpents|Typhoeus and Echidna
+Charon|Charon|Ferryman of the Dead|Skiff|Erebus and Nyx
+Erinyes|Furiae, Dirae|Vengeance, retribution|Vipers|Gaea and the blood of Uranus
+Hades|Pluto, Dis, Orcus|The dead, king of the underworld|Royal sceptre, cornucopia|Cronus and Rhea
+Hypnos|Somnus, Sopor|Sleep|None|Nyx (no father)
+Persephone|Proserpina|Spring, queen of the underworld|Torch|Zeus and Demeter
+Thanatos|Mors, Letum|Death|Sword|Nyx (no father)
+Amphitrite|Salacia|The sea, fish, shellfish|Fish, dolphin|Nereus and Thetis
+Galatea|Galatea|Calm seas|None|Nereus and Doris
+Ichthyocentaurs|Aphros, Bythos|Sea-foam, sea-depths|None|Cronus and Philyra
+Leucothea|Mater, Matuta|Protector of sailors|None|Cadmus and Harmonia
+Nereids|Nereids|The sea, fish|Dolphin|Nereus and Doris
+Nereus|Nereus|Fish|Fish|Pontus and Gaea
+Palaemon|Portunus|Protector of sailors|Dolphin|Athamas and Ino
+Phorcys|Phorcys|Sea dangers|None|Pontus and Gaea
+Scylla|Scylla|Tear, Rend|Nome|Crataeis
+Sirens|Sirens|Bodies of birds, heads of women|None|Achelous and Melpomene
+Thetis|Thetis|The sea, leader of the Nereides|None|Nereus and Doris
+Triton|Triton|Waves, calm seas, herald of Poseidon|Conch shell|Poseidon and Amphitrite
+Anemoi|Venti|The winds|None|Astraeus and Eos
+Aurae|Aurae|Breezes|None|Oceanus and Boreas
+Boreas|Aquilo|The north wind, winter|None|Astraeus and Eos
+Harpies|Harpies|Storm winds, whirlwinds|None|Thaumas and Electra
+Hesperides|Hesperides|Evening, sunsets|Golden apple|Atlas or Nyx
+Zephyrus|Zephyrus, Favonius|The west wind, spring|None|Astraeus and Eos
+Ariadne|Libera|Crown|Most Holy|Minos and Pasiphae
+Chiron|Chiron|Teaching, surgeons|None|Cronus and Philyra
+Curetes & Dactyls|Curetes & Dactyls|The war dance, metalworking|Shield|Gaea
+Naiads|Naiads|Fresh water, springs, fountains|Water-pitcher|The Potamoi
+Nymphs|Nymphs|Nature|None|Zeus and Gaea
+Pan|Faunus|Shepherds, hunters, mountain forests and meadows|Panpipes|Hermes and Penelope
+Potamoi|Flumina, Amnes|The rivers|Water-pitcher, cornucopia|Oceanus and Tethys
+Priapus|Mutunus|Vegetable gardens|Basket of vegetables|Dionysus and Aphrodite
+Satyrs|Fauns|Fertility|Wineskin, drinking-horn, double-flute|Various
+Silenus|Silenus|Drunkenness, wine-making|None|Gaea
+Plutus|Plutus|Wealth, agricultural bounty|Cornucopia|Iasion and Demeter
+Triptolemus|Triptolemus|Sowing, milling|Winged chariot|Celeus and Metanira
+Dike|Justicia|Justice|None|Zeus and Themis
+Eris|Discordia|Strife, discord|None|Nyx (no father)
+Geras|Senectus|Old age|None|Nyx (no father)
+Lyssa|Ira, Furor|Mad rage, fury, crazed frenzy|None|Nyx
+Nemesis|Nemesis, Rivalitas|Retribution, indignation|Sword, lash|Nyx (no father) or Oceanus
+Peitho|Suada, Suadela|Persuasion, seduction|Ball of twine|Oceanus and Tethys
+Deimos & Phobos|Metus, Pavor, Terror|Fear, panic, terror|None|Ares and Aphrodite
+Poena|Poena, Poenae, Ultio|Vengeance, retribution|None|Aither and Gaia
+Pothos|Pothos|Sexual longing, yearning|None|Aphrodite
+Soteria|Salus|Safety and Deliverance|None|Zeus and Dionysus
+Dioscuri|Castor, Pollux|Horsemanship, St. Elmo's fire|None|Zeus, Tyndareus and Leda
+Ganymede|Ganymede, Catamitus|Cupbearer of the gods|Pitcher, hoop|Tros and Callirhoe
+Psyche|Psyche|The soul|Butterfly|None
+Thaumas|Thaumas|Sea|None|Pontus and Gaea

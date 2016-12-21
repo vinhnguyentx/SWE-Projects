@@ -1,0 +1,119 @@
+/*body {
+  margin: 0;
+}*/
+.greektop {
+  border: none;
+  /*margin: 3rem;*/
+  margin-top: 50px;
+  height: 30px;
+  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/wave.svg);
+  height: 100px;
+  background-color: #F6BB42;
+}
+
+.greekbottom {
+  margin-top: -20px;
+  border: none;
+  /*margin: 3rem;*/
+  height: 30px;
+  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/wave.svg);
+  height: 100px;
+  background-color: #F6BB42;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.greekbottomind {
+  margin-top: 50px;
+  border: none;
+  height: 30px;
+  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/wave.svg);
+  height: 100px;
+  background-color: #F6BB42;
+}
+
+#gods {
+  padding-bottom: 100px;
+}
+
+#heroes {
+  padding-bottom: 100px;
+}
+
+#locations {
+  padding-bottom: 100px;
+}
+
+#myths {
+  padding-bottom: 100px;
+}
+
+#search {
+  padding-bottom: 100px;
+}
+/*}
+hr:nth-child(1) {
+  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/wave.svg);
+  height: 35px;
+}
+hr:nth-child(2) {
+  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/leaf.svg);
+}
+hr:nth-child(3) {
+  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/simple-wave.svg);
+}*/
+
+.reactable-page-button {
+  color: black;
+  margin: 5px;
+  font-size: 30px;
+}
+
+.reactable-next-page {
+  color: black;
+  margin: 5px;
+  font-size: 30px;
+}
+
+.reactable-previous-page {
+  color: black;
+  margin: 5px;
+  font-size: 30px;
+}
+
+.reactable-filter-input {
+  background-color: #F6BB42;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+  border-top: 5px solid black;
+}
+
+input {
+  border-color: black;
+  border-width: 5px;
+}
+
+/*.navbar-default {
+    background-color: #000000;
+    border-color: #E7E7E7;
+}*/
+
+.navcolor {
+  color: #F6BB42;
+}
+
+a {
+  color: #000000;
+}
+
+a:hover {
+  color: #902800;
+}
+
+.listy {
+  border-color: black;
+  border-width: 5px;
+  background-color: #F6BB42;
+}

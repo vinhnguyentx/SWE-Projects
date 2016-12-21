@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>{{ hero[0] }}</title>
+
+    <!-- Latest compiled and minified CSS -->
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+		<!-- Optional theme -->
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+      <link rel="stylesheet" href="/static/css/greekpattern.css">
+
+</head>
+
+<body style="background-color: #F6BB42;">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a style="color: #F6BB42;" class="navbar-brand" href="/">Greek Mythology</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a style="color: #F6BB42;" href="/static/gods.html">Gods</a>
+                    </li>
+                    <li>
+                        <a style="color: #F6BB42;" href="/static/heroes.html">Heroes</a>
+                    </li>
+                    <li>
+                        <a style="color: #F6BB42;" href="/static/locations.html">Locations</a>
+                    </li>
+                    <li>
+                        <a style="color: #F6BB42;" href="/static/myths.html">Myths</a>
+                    </li>
+                    <li>
+                        <a style="color: #F6BB42;" href="/static/about.html">About</a>
+                    </li>
+                </ul>
+
+                <form class="navbar-form navbar-left" role="search" action="/search" method="get">
+                  <div class="form-group">
+                    <input name="query" id="searchval" type="text" class="form-control" placeholder="Search">
+                  </div>
+                  <button type="submit" class="btn btn-default">Submit</button>
+                </form>
+                
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <div class="greektop"></div>
+
+    <!-- Content -->
+
+    <div class="container" style="margin-top: 50px;">
+      <div class="row">
+        <div class="col-sm-8">
+
+          <h2>Info</h2>
+
+          <div class="list-group listy">
+            <a class="list-group-item list-group-item-action listy">
+              <h5 class="list-group-item-heading">Name</h5>
+              <p class="list-group-item-text">{{ hero[0] }}</p>
+            </a>
+            <a href="#" class="list-group-item list-group-item-action listy">
+              <h5 class="list-group-item-heading">Type</h5>
+              <p class="list-group-item-text">{{ hero[1] }}</p>
+            </a>
+            <a href="#" class="list-group-item list-group-item-action listy">
+              <h5 class="list-group-item-heading">Power</h5>
+              <p class="list-group-item-text">{{ hero[2] }}</p>
+            </a>
+            <a href="#" class="list-group-item list-group-item-action listy">
+              <h5 class="list-group-item-heading">Home</h5>
+              <p class="list-group-item-text">{{ hero[3] }}</p>
+            </a>
+            <a href="#" class="list-group-item list-group-item-action listy">
+              <h5 class="list-group-item-heading">Father</h5>
+              <p class="list-group-item-text">{{ hero[4] }}</p>
+            </a>
+						<a href="#" class="list-group-item list-group-item-action listy">
+              <h5 class="list-group-item-heading">Mother</h5>
+              <p class="list-group-item-text">{{ hero[5] }}</p>
+            </a>
+          </div>
+
+        </div>
+        <div class="col-sm-4">
+          <h2>{{ hero[0] }}</h2>
+          <img style="border:10px solid black"; class="img-responsive" src="{{ hero[6] }}">
+        </div>
+      </div>
+      <!-- <div class="row">
+        <div class="col-sm-12">
+          <h3>Description</h3>
+          <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+             The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+          </p>
+        <div>
+      </div> -->
+    </div>
+
+    <div class="greekbottomind"></div>
+
+    <script src="/static/js/jquery.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+</body>
+
+</html>
